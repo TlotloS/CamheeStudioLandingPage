@@ -5,11 +5,11 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Portfolio",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Gallery",
       "href": "features"
     },
 
@@ -30,7 +30,7 @@
     "title": "Camhee Studios",
     "subtitle": "Modelling",
     "description": "Are you ready to step into the spotlight and make your mark in the world of modeling? Look no further than Camhee Studios, your premier destination for talent management and development.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/AMANDA_MAJOLA21.jpg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -46,12 +46,17 @@
       {
         "title": "A plug n play template",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
       },
       {
         "title": "Make it your own!",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
+      },
+      {
+        "title": "Product 3!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
       }
     ]
   },
