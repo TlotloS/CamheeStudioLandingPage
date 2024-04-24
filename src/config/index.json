@@ -1,7 +1,8 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/CS_Model_Management_BLACK_Logo.png"
+    "logo": "/assets/images/CS_Model_Management_BLACK_Logo.png",
+    "logo2": "/assets/images/CS_Model_Management_GOLD_Logo.png"
   },
   "navigation": [
     {
@@ -9,17 +10,12 @@
       "href": "product"
     },
     {
-      "name": "Gallery",
-      "href": "features"
-    },
-
-    {
       "name": "Pricing",
       "href": "pricing"
     },
     {
       "name": "About",
-      "href": "about"
+      "href": "product"
     }
   ],
   "callToAction": {
@@ -37,25 +33,30 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:info@camheestudios.com?subject=Inquiry%20about%20Services&body=Hello%20Camhee%20Studios,%0D%0A%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20services.%20Could%20you%20please%20provide%20me%20with%20more%20information?"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Services and Offerings",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Model Management and Portfolio Management",
+        "description": "Embark on your journey to becoming a successful model with Camhee Studios by your side. We offer comprehensive portfolio development and career management services to help you stand out in the competitive world of modeling.",
         "img": "/assets/images/AMANDA_MAJOLA21.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Special Occasions & Events",
+        "description": "Let us capture the magic of your special occasions, whether it's a birthday celebration, wedding ceremony, or a family gathering. Camhee Studios is dedicated to preserving your precious moments in stunning imagery.",
         "img": "/assets/images/AMANDA_MAJOLA21.jpg"
       },
       {
-        "title": "Product 3!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Casting for Brands",
+        "description": "Camhee Studios plays a pivotal role in connecting talented models with renowned brands for advertising campaigns and endorsements. Our extensive network and industry expertise ensure that you get noticed by the right brands.",
+        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
+      },
+      {
+        "title": "Filming",
+        "description": "From commercials to promotional videos, Camhee Studios offers professional video production services to bring your vision to life. Whether you need a captivating commercial or behind-the-scenes footage, we've got you covered.",
         "img": "/assets/images/AMANDA_MAJOLA21.jpg"
       }
     ]
@@ -92,37 +93,21 @@
     "items": [
       {
         "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
+        "price": "R0",
+        "priceDetails": "per session",
+        "features": ["10 Photos", "5 Edits"]
       },
       {
         "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
+        "price": "R500",
+        "priceDetails": "per session",
+        "features": ["10 Photos", "5 Edits"]
       },
       {
         "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "price": "R1500",
+        "priceDetails": "per session",
+        "features": ["10 Photos", "5 Edits"]
       }
     ]
   },
@@ -150,8 +135,11 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
+      "facebook": "https://www.facebook.com/profile.php?id=100068130900483",
+      "github": "https://www.github.com/TlotloS",
+      "instagram": "https://www.instagram.com/cs_model_management/",
+      "tiktok": "#",
+      "whatsapp": "#",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
     }
   }

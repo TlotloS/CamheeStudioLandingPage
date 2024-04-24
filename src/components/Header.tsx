@@ -8,7 +8,7 @@ import config from '../config/index.json';
 
 const Menu = () => {
   const { navigation, company, callToAction } = config;
-  const { name: companyName, logo } = company;
+  const { name: companyName, logo2 } = company;
 
   return (
     <>
@@ -32,7 +32,7 @@ const Menu = () => {
               <div className="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
                   <span className="sr-only">{companyName}</span>
-                  <img alt="logo" className="h-16 w-auto sm:h-16" src={logo} />
+                  <img alt="logo" className="h-32 w-auto sm:h-16" src={logo2} />
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
                   <Popover.Button
@@ -58,12 +58,17 @@ const Menu = () => {
                   {item.name}
                 </Link>
               ))}
-              <a
-                href="#"
+              <Link
+                spy={true}
+                active="active"
+                smooth={true}
+                duration={1000}
+                key={'ContactUs'}
+                to={'about'}
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Contact us
-              </a>
+                Contact Us
+              </Link>
             </div>
           </nav>
         </div>
@@ -86,7 +91,7 @@ const Menu = () => {
             >
               <div className="px-5 pt-4 flex items-center justify-between">
                 <div>
-                  <img className="h-8 w-auto" src={logo} alt="" />
+                  <img className="h-8 w-auto" src={logo2} alt="" />
                 </div>
                 <div className="-mr-2">
                   <Popover.Button
