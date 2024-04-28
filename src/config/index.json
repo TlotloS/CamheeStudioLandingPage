@@ -26,7 +26,7 @@
     "title": "Camhee Studios",
     "subtitle": "Modelling",
     "description": "Are you ready to step into the spotlight and make your mark in the world of modeling? Look no further than Camhee Studios, your premier destination for talent management and development.",
-    "img": "/assets/images/AMANDA_MAJOLA21.jpg",
+    "img": "/assets/images/Cover1.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -42,12 +42,12 @@
       {
         "title": "Model Management and Portfolio Management",
         "description": "Embark on your journey to becoming a successful model with Camhee Studios by your side. We offer comprehensive portfolio development and career management services to help you stand out in the competitive world of modeling.",
-        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
+        "img": "/assets/images/Model1.jpeg"
       },
       {
         "title": "Special Occasions & Events",
         "description": "Let us capture the magic of your special occasions, whether it's a birthday celebration, wedding ceremony, or a family gathering. Camhee Studios is dedicated to preserving your precious moments in stunning imagery.",
-        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
+        "img": "/assets/images/Events1.jpeg"
       },
       {
         "title": "Casting for Brands",
@@ -57,7 +57,7 @@
       {
         "title": "Filming",
         "description": "From commercials to promotional videos, Camhee Studios offers professional video production services to bring your vision to life. Whether you need a captivating commercial or behind-the-scenes footage, we've got you covered.",
-        "img": "/assets/images/AMANDA_MAJOLA21.jpg"
+        "img": "/assets/images/Film2.jpeg"
       }
     ]
   },
@@ -92,22 +92,47 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "R0",
+        "name": "CS Kiddies Package",
+        "price": "R1999",
         "priceDetails": "per session",
-        "features": ["10 Photos", "5 Edits"]
+        "features": [
+          "1 hour Posing Practice",
+          "Photoshoot & Portfolio",
+          "35 images and 20 edited images",
+          "3 looks",
+          "Indoor & outdoor studio",
+          "Make-up done",
+          "Electronic images sent via retransfer"
+        ]
       },
       {
-        "name": "Pro",
-        "price": "R500",
+        "name": "CS Bronze Package",
+        "price": "R2000",
         "priceDetails": "per session",
-        "features": ["10 Photos", "5 Edits"]
+        "features": [
+          "1 hr posing practice",
+          "Photoshoot & Portfolio ",
+          "40 images and 25 edited images",
+          "3 looks",
+          "Indoor & outdoor studio",
+          "Make up done",
+          "Electronic images sent via retransfer"
+        ]
       },
       {
-        "name": "Enterprise",
-        "price": "R1500",
+        "name": "CS Silver Package",
+        "price": "R2500",
         "priceDetails": "per session",
-        "features": ["10 Photos", "5 Edits"]
+        "features": [
+          "1 hr Posing practice",
+          "Photoshoot & Portfolio",
+          "55 images and 30 edited images",
+          "4 looks",
+          "Indoor & outdoor studio",
+          "Make up done",
+          "Props",
+          "Electronic images sent via retransfer"
+        ]
       }
     ]
   },
@@ -139,7 +164,7 @@
       "github": "https://www.github.com/TlotloS",
       "instagram": "https://www.instagram.com/cs_model_management/",
       "tiktok": "#",
-      "whatsapp": "#",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+27740189564&text=Hello%20from%20Camhee%20Studios.%20I%20am%20interested%20in%20learning%20more%20about%20your%20services.%20Can%20you%20please%20provide%20me%20with%20some%20information%3F",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
     }
   }
